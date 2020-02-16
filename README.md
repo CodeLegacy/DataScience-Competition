@@ -1,4 +1,4 @@
-<h1>Competition topic: Prediction of Response Time of Fire Fighters</h1>
+<h1>Competition topic: Predicting Response Time of the Paris Fire Brigade</h1>
 
 <p>Paris Report Contains Explaination regarding to approach to this problem</p>
 
